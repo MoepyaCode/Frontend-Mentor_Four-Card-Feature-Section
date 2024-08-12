@@ -1,13 +1,11 @@
-import bgPatternDesktop from './bg-pattern-desktop.svg';
-import heroDesktop from './hero-desktop.jpg';
-import heroMobile from './hero-mobile.jpg';
-import iconArrow from './icon-arrow.svg';
-import iconError from './icon-error.svg';
+import iconSupervisor from './icon-supervisor.svg';
+import iconTeamBuilder from './icon-team-builder.svg';
+import iconKarma from './icon-karma.svg';
+import iconCalculator from './icon-calculator.svg';
 
 export const Assets = {
-    bgPatternDesktop,
-    heroDesktop,
-    heroMobile,
-    iconArrow,
-    iconError,
+    iconSupervisor,
+    iconTeamBuilder,
+    iconKarma,
+    iconCalculator
 }

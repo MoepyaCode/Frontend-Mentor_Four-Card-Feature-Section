@@ -14,6 +14,7 @@ export default {
       },
       fontFamily: {
         josefin: ['Josefin Sans', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
       }
     },
   },
